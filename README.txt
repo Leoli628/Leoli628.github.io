@@ -1,18 +1,22 @@
 How to publish this as a GitHub Pages academic webpage
 
-1) Create a GitHub repository named exactly:
-   YOUR_GITHUB_USERNAME.github.io
+1) Find your GitHub username (handle):
+   - Go to your profile page: https://github.com/USERNAME
+   - The part after github.com/ is your USERNAME.
 
-2) Upload these files to the repository root:
+2) Create a repository named exactly:
+   USERNAME.github.io   (must match your username)
+
+3) Upload these files to the repository root:
    - index.html
-   - paper.pdf  (optional but included)
+   - paper_isbi2026.pdf  (optional, included if you provided it)
 
-3) In the repo: Settings -> Pages
+4) In the repo: Settings -> Pages
    - Source: Deploy from a branch
    - Branch: main (root)
 
-4) Your public link will be:
-   https://YOUR_GITHUB_USERNAME.github.io/
+5) Your public link will be:
+   https://USERNAME.github.io/
 
-Use that link to fill the form item:
+Fill the form item with that link:
 "Google Scholar Link or URL of your academic webpage with a list of your publications."
